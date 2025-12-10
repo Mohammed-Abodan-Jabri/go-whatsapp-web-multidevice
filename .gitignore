@@ -8,7 +8,8 @@ main.exe
 *.jpe
 src/pkged.go
 storages
-.env
 bin
 .playwright-mcp
 .cursor/mcp.json
+config.bat
+node_modules
